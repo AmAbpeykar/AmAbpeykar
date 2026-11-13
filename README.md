@@ -1,29 +1,25 @@
-<h1><img src="assets/profile-header.png" alt="Mohammad Amin Abpeykar" width="1200"></h1>
+<p align="center">
+  <img src="assets/aimeup-profile.webp" width="960" alt="AimeUp — Amin Abpeykar, Senior Full-Stack and Mobile Developer">
+</p>
 
-**Senior Full-Stack & Mobile Developer**
+# Amin Abpeykar
 
-I build web and mobile products from architecture to release. My work spans React and React Native interfaces, Laravel and Node.js APIs, and the data and deployment workflows behind them.
+I build and ship web and mobile products, from application architecture and backend APIs through release and production support. I have six years of software development experience, including three years in a senior full-stack role.
 
 ## Product work
 
-| Product | What I built |
-| --- | --- |
-| **[Dr. Sinuhe](https://drsinu.com/)** | APIs and administrative tools for healthcare reservations, payments, and financing workflows. |
-| **[Dambal](https://dambalapp.com/)** | A fitness app for coaches and their clients. I worked on the React Native app, backend APIs, training plans, and real-time notifications. |
+- **[Dambal](https://dambalapp.com/)** — A fitness platform connecting coaches and trainees. I worked on the React Native app, backend APIs, training plan workflows, and real-time notifications.
+- **[DrSinu](https://drsinu.com/)** — A healthcare platform for service reservations and payments. I built APIs and administration tools for booking, payments, and financial workflows.
 
-## Selected public code
+## Engineering focus
 
-| Repository | What to look at |
-| --- | --- |
-| **[SnapFood](https://github.com/AmAbpeykar/SnapFood)** | Laravel restaurant ordering with separate routes for customers, sellers, and administrators. |
-| **[Laravel + Vue](https://github.com/AmAbpeykar/laravel_vue)** | Locale-aware Laravel routes and Vue components built with Vite. |
-| **[Meteorology](https://github.com/AmAbpeykar/meteorology)** | A Laravel weather lookup by city or geographic coordinates. |
-
-**Main stack** · TypeScript, React, Next.js, React Native, PHP, Laravel, Node.js, SQL Server, Redis, Docker
+- **Web and mobile** · TypeScript, React, Next.js, React Native, Expo
+- **Backend and data** · Laravel, PHP, Node.js, REST APIs, SQL Server, Redis
+- **Production** · Background jobs, real-time events, Docker, CI/CD, and performance tuning
 
 <div lang="fa" dir="rtl">
 <h2>معرفی فارسی</h2>
-<p>محمد امین آب‌پیکر هستم، توسعه‌دهندهٔ ارشد فول‌استک و موبایل. در دکتر سینوهه روی فرایندهای رزرو، پرداخت و پنل مدیریت کار کرده‌ام. در Dambal اپلیکیشن موبایل و رابط‌های برنامه‌نویسی موردنیاز مربیان و کاربران را توسعه داده‌ام.</p>
+<p>امین آب پیکر هستم، توسعه‌دهندهٔ ارشد فول‌استک و موبایل. شش سال در توسعهٔ نرم‌افزار تجربه دارم و سه سال از این مسیر را در نقش توسعه‌دهندهٔ ارشد فول‌استک کار کرده‌ام. در دمبال روی اپلیکیشن موبایل، فرایندهای برنامهٔ تمرینی و اعلان‌های لحظه‌ای کار کرده‌ام. در دکتر سینو هم رابط‌های برنامه‌نویسی و ابزارهای مدیریت رزرو و پرداخت را توسعه داده‌ام.</p>
 </div>
 
 [Connect on LinkedIn](https://www.linkedin.com/in/aimeup/)
